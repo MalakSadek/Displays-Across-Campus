@@ -13,10 +13,6 @@ To address this problem, three alternative website designs were created for a we
 
 The websites were created using `Axure RP 9` as an IDE and were written in `HTML`, `CSS` and `JavaScript`. The first design is a conservative, grid-based one, the second is a curiosity-provoking, mysterious black and white one, and the third one uses the visual metaphor of a museum to provide an immersive experience.
 
-![picture alt](https://github.com/MalakSadek/Displays-Across-Campus/blob/master/design1.png "Conservative Design")
-![picture alt](https://github.com/MalakSadek/Displays-Across-Campus/blob/master/design2.png "B&W Design")
-![picture alt](https://github.com/MalakSadek/Displays-Across-Campus/blob/master/design3.png "Museum Design")
-
 For more information about the design perspective for the project (contextual inquiries, sketches, and overall design process), please visit: 
 
 # Try the websites!
