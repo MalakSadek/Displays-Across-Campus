@@ -21,9 +21,14 @@ For more information about the design perspective for the project (contextual in
 
 # Try the websites!
 
-* The Conservative Design: https://uf0pz0.axshare.com   |   Walkthrough Video: https://drive.google.com/file/d/1pAcg6EIJLM9_t2E5hJdZ qUzFBaDk9QCc/view?usp=sharing
-* The Black & White Design: https://ktd7kj.axshare.com  |   Walkthrough Video: https://drive.google.com/file/d/1f7V1SwNNiBi6qKsEERG 1vGZ6iTd1VsS9/view?usp=sharing
-* The Museum Design: https://igyofq.axshare.com   |   Walkthrough Video: https://drive.google.com/file/d/1cE3O5U3nxZFRs4t9YC 31MYzyW5tGRgj_/view?usp=sharing
+* The Conservative Design: https://uf0pz0.axshare.com 
+Walkthrough Video: https://drive.google.com/file/d/1pAcg6EIJLM9_t2E5hJdZ qUzFBaDk9QCc/view?usp=sharing
+
+* The Black & White Design: https://ktd7kj.axshare.com
+Walkthrough Video: https://drive.google.com/file/d/1f7V1SwNNiBi6qKsEERG 1vGZ6iTd1VsS9/view?usp=sharing
+
+* The Museum Design: https://igyofq.axshare.com
+Walkthrough Video: https://drive.google.com/file/d/1cE3O5U3nxZFRs4t9YC 31MYzyW5tGRgj_/view?usp=sharing
 
 # Contact
 
