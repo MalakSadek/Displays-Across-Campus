@@ -13,7 +13,7 @@ To address this problem, three alternative website designs were created for a we
 
 The websites were created using `Axure RP 9` as an IDE and were written in `HTML`, `CSS` and `JavaScript`. The first design is a conservative, grid-based one, the second is a curiosity-provoking, mysterious black and white one, and the third one uses the visual metaphor of a museum to provide an immersive experience.
 
-For more information about the design perspective for the project (contextual inquiries, sketches, and overall design process), please visit: 
+For more information about the design perspective for the project (contextual inquiries, sketches, and overall design process), please visit: https://malaksadek.wordpress.com/2020/09/06/display-across-campus/
 
 # Try the websites!
 
